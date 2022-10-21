@@ -4,7 +4,11 @@
 <email>
 	<remitentes> jualito@gmail.com </remitentes>
 	
-	<destinatario> pepito@gmail.com </destinatario>
+	<destinatario> 
+		<direccion> pepito@gmail.com </direccion>
+		<nombre> Jose </nombre>
+		<apellido> Lopez </apellido>
+	</destinatario>
 	
 	<asunto> Saludos </asunto>
 	
