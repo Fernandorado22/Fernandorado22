@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE email>
+
+<email>
+	<remitentes> jualito@gmail.com </remitentes>
+	
+	<destinatario> pepito@gmail.com </destinatario>
+	
+	<asunto> Saludos </asunto>
+	
+	<mensaje> ¡Hola!, ¿te parece bien quedar el lunes y nos vemos? Saludos </mensaje>
+	
+</email>
